@@ -206,13 +206,8 @@ public class HealthCalculator {
             } else {
                System.out.printf("%30s: %s%n", "Health Status","Obese" );
             }
-        
-            
    
-        System.out.println("--------------------------------------------------------------------------------------");
-            
-            
-            
+        System.out.println("--------------------------------------------------------------------------------------")
             
     }//end of displaySUserInformation method
 
